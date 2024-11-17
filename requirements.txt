@@ -5,3 +5,5 @@ langchain==0.3.7
 flask==3.1.0
 GitPython==3.1.43
 python-dotenv==1.0.1
+langchain-community==0.3.7
+langchain-huggingface==0.1.2
